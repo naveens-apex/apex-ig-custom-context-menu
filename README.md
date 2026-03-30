@@ -166,14 +166,6 @@ Import demo app from:
 
 ---
 
-## 🗺 Roadmap
-
-* Add support for dynamic menu visibility
-* Add confirmation dialog support
-* Support additional payload formats (JSON enhancements)
-
----
-
 ## 🤝 Contributing
 
 Contributions and suggestions are welcome.
