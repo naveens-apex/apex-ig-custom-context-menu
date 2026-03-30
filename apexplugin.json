@@ -1,6 +1,6 @@
 {
   "name": "Interactive Grid – Custom Context Menu",
-  "version": "1.0.0",
+  "version": "1.0",
   "description": "Dynamic Action plugin to add custom context menu entries to the Interactive Grid row selector (hamburger menu) with support for separators, icons, and AJAX callback execution on selected rows.",
   "keywords": ["oracle apex", "interactive grid", "context menu", "dynamic action", "row selector"],
   "homepage": "https://github.com/naveens-apex/apex-ig-custom-context-menu",
@@ -12,7 +12,8 @@
   "commercial": "No",
   "author": {
     "name": "Naveen Saini",
-    "email": "naveen.saini108@gmail.com"
+    "email": "naveen.saini108@gmail.com",
+    "url" : ""
   },
   "repository": {
     "type": "git",
