@@ -134,13 +134,12 @@ Used to identify and pass selected row(s) to the AJAX process.
 
 ---
 
-## 📦 Demo Application
+## 🌐 Live Demo
 
-Import demo app from:
+Explore the plugin in action:
 
-```
-/demo/demo_app.sql
-```
+🔗 **Demo Application**
+https://oracleapex.com/ords/r/naveens/sample-custom-ig-context-menu/home
 
 ---
 
