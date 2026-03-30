@@ -20,9 +20,9 @@
     "url": "https://github.com/naveens-apex/apex-ig-custom-context-menu.git"
   },
   "oracle": {
-    "versions": ["19.0.0", "23.0.0", "24.3"],
+    "versions": ["19.0.0.0.0", "21.0.0.0.0", "23.0.0.0.0"],
     "apex": {
-      "versions": ["24.2.7"],
+      "versions": ["24.2.0"],
       "plugin": {
         "internalName": "CUSTOM_CONTEXT_MENU",
         "type": "dynamic action",
