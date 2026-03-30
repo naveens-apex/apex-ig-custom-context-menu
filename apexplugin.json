@@ -23,7 +23,7 @@
     "apex": {
       "versions": ["24.2.7"],
       "plugin": {
-        "internalName": "CUSTOM_CONTEXT_MENU",
+        "internalName": "IG_CUSTOM_CONTEXT_MENU",
         "type": "dynamic action",
         "demo": "https://oracleapex.com/ords/r/naveens/sample-custom-ig-context-menu/home",
         "previewImage": "https://raw.githubusercontent.com/naveens-apex/apex-ig-custom-context-menu/main/images/preview.png"
