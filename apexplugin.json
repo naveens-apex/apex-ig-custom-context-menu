@@ -1,5 +1,5 @@
 {
-  "name": "Interactive Grid Custom Context Menu",
+  "name": "Interactive Grid - Custom Context Menu",
   "version": "1.0",
   "description": "Dynamic Action plugin to add custom context menu entries to the Interactive Grid row selector (hamburger menu) with support for separators, icons, and AJAX callback execution on selected rows.",
   "keywords": ["oracle apex", "interactive grid", "context menu", "dynamic action", "row selector", "separator"],
