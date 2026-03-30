@@ -6,7 +6,7 @@
   "homepage": "https://github.com/naveens-apex/apex-ig-custom-context-menu/",
   "bugs": {
     "url": "https://github.com/naveens-apex/apex-ig-custom-context-menu/issues",
-    "email": "naveen.saini108@gmail.com"
+    "email": ""
   },
   "license": "MIT",
   "commercial": "No",
@@ -19,9 +19,9 @@
     "url": "https://github.com/naveens-apex/apex-ig-custom-context-menu.git"
   },
   "oracle": {
-    "versions": ["19.0.0", "23.0.0"],
+    "versions": ["19.0.0", "23.0.0", "24.3"],
     "apex": {
-      "versions": ["24.02"],
+      "versions": ["24.2.7"],
       "plugin": {
         "internalName": "CUSTOM_CONTEXT_MENU",
         "type": "dynamic action",
